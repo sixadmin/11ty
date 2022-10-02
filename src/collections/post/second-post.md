@@ -6,6 +6,7 @@ description: Bring to the table win-win survival strategies to ensure proactive
   evolved from generation X is on the runway heading towards a streamlined cloud
   solution.
 date: 2021-03-10
+image: https://6adm.in/img/docker.png
 authors:
   - richardcruz
 tags:

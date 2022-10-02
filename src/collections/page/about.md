@@ -1,5 +1,5 @@
 ---
-title: About
+title: A propos
 path: about
 date: 2021-03-11
 image: https://i.loli.net/2020/11/19/ZUEzPn3c15tMQDb.jpg
