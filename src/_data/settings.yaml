@@ -1,9 +1,9 @@
 meta:
-  name: Fizzy
+  name: 6adm.in
   url: ""
   description: "Exploring exciting things."
-  icon: /favicon.ico
-  footerInfo: The voyage begins in London.
+  logo: /logo.png
+  footerInfo: La connaissance s'acquiert par l'expérience, tout le reste n'est que de l'information -- Albert Einstein 
 post:
   showFeatureImage: true
   featureText: featured
